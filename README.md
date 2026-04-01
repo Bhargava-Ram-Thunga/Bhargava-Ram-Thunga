@@ -1,25 +1,43 @@
 ### Hi, I'm Bhargava 👋
 
-Developer based in Hyderabad · B.Tech CSE @ NIAT (2024–2028)
+&nbsp;
+
+Developer based in Hyderabad &nbsp;·&nbsp; B.Tech CSE @ NIAT (2024–2028)
 
 I build full-stack apps and data tools — currently into AI-powered systems and applied ML.
 
+&nbsp;
+
 ---
 
-**Languages**
 &nbsp;
-![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
+
+&nbsp;
 
 **Web**
+
+![HTML](https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
+
 &nbsp;
-![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 
 **Data & Databases**
+
+![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=white)
+
 &nbsp;
-![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
+
+---
+
+&nbsp;
+
+<sub>📍 Hyderabad &nbsp;·&nbsp; 🔗 <a href="https://www.linkedin.com/in/bhargav-ram-thunga/">LinkedIn</a> &nbsp;·&nbsp; ⚡ <a href="https://leetcode.com/u/Bh4gav/">LeetCode</a></sub>
