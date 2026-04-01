@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**Bhargava-Ram-Thunga/Bhargava-Ram-Thunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+curl -s "https://api.github.com/repos/Bhargava-Ram-Thunga/dns_net_ios" | grep -E '"description"|"language"|"topics"'
+curl -s "https://api.github.com/repos/Bhargava-Ram-Thunga/EasyShare" | grep -E '"description"|"language"|"topics"'
+curl -s "https://api.github.com/repos/Bhargava-Ram-Thunga/The-Sentinal" | grep -E '"description"|"language"|"topics"'
+  "description": null,
+  "language": "Dart",
+  "topics": [
+  "description": null,
+  "language": "TypeScript",
+  "topics": [
+  "description": "i ve implemented anti-spoofing using deepface",
+  "language": "JavaScript",
+  "topics": [
