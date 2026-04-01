@@ -1,8 +1,8 @@
-### Hi, I'm Bhargav 👋
+### Hi, I'm Bhargava 👋
 
 Developer based in Hyderabad · B.Tech CSE @ NIAT (2024–2028)
 
-I build full-stack apps and data tools — currently into AI-powered systems and applied ML.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6E6E6E&width=435&lines=I+build+full-stack+apps+%26+data+tools;Currently+into+AI-powered+systems;Always+exploring+new+tech)](https://git.io/typing-svg)
 
 ---
 
@@ -21,3 +21,17 @@ I build full-stack apps and data tools — currently into AI-powered systems and
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargava-Ram-Thunga&theme=default&hide_border=true" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargava-Ram-Thunga&layout=compact&hide_border=true" height="150"/>
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhargava-Ram-Thunga&theme=flat&no-frame=true&column=6&margin-w=4"/>
+</p>
