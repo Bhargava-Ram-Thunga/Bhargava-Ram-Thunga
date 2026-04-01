@@ -1,12 +1,20 @@
-### Hi, I'm Bhargava 👋
+<div align="left">
 
-Developer based in Hyderabad · B.Tech CSE @ NIAT (2024–2028)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2F80ED&width=500&lines=Hey%2C+I'm+Bhargava+%F0%9F%91%8B;Problem+solver+%7C+Systems+thinker;I+like+breaking+things+to+understand+them)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6E6E6E&width=435&lines=I+build+full-stack+apps+%26+data+tools;Currently+into+AI-powered+systems;Always+exploring+new+tech)](https://git.io/typing-svg)
+</div>
+
+B.Tech CSE @ NIAT, Hyderabad · 2024–2028
+
+I gravitate toward the analytical side of engineering — data pipelines, backend systems, pricing models, and AI tooling. I like understanding *why* things work, not just *how* to make them run.
+
+- 🔍 Currently exploring: AI-powered systems & applied ML
+- 🏢 Analytics & Pricing Intelligence @ **FreshBus**
+- 🧩 I enjoy: ClickHouse queries at 2am, clean API design, and fixing things that "shouldn't" be broken
 
 ---
 
-### Core Tech Stack
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -26,12 +34,13 @@ Developer based in Hyderabad · B.Tech CSE @ NIAT (2024–2028)
 
 ### GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargava-Ram-Thunga&theme=default&hide_border=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargava-Ram-Thunga&layout=compact&hide_border=true" height="150"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhargava-Ram-Thunga&show_icons=true&hide_border=true&count_private=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargava-Ram-Thunga&layout=compact&hide_border=true&theme=default" height="160"/>
 </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhargava-Ram-Thunga&theme=flat&no-frame=true&column=6&margin-w=4"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Bhargava-Ram-Thunga&theme=flat&no-frame=true&column=6&margin-w=4"/>
+
+---
+
+<sub>📍 Hyderabad &nbsp;·&nbsp; 🔗 <a href="https://www.linkedin.com/in/bhargav-ram-thunga/">LinkedIn</a> &nbsp;·&nbsp; ⚡ <a href="https://leetcode.com/u/Bh4gav/">LeetCode</a></sub>
