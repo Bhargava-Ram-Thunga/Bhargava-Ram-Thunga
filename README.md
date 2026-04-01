@@ -28,5 +28,4 @@ I gravitate toward the analytical side of engineering — data pipelines, backen
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargav-ram-thunga/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Bh4gav/)
+&nbsp;[<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/>](https://www.linkedin.com/in/bhargav-ram-thunga/)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="28"/>](https://leetcode.com/u/Bh4gav/)
