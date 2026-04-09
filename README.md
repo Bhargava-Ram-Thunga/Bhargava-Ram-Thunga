@@ -1,30 +1,31 @@
-<div align="left">
+<div align="left"><a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1000&color=2F80ED&width=500&lines=Hey%2C+I'm+Bhargav+%F0%9F%91%8B;Problem+solver+%7C+Systems+thinker;I+like+breaking+things+to+understand+them" />
+</a></div>
+<strong>B.Tech CSE @ NIAT, Hyderabad · 2024–2028</strong><br>
+I gravitate toward the analytical side of engineering — data pipelines, backend systems, pricing models, and AI tooling.<br>
+I like understanding <i>why</i> things work, not just how to make them run.<br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2F80ED&width=500&lines=Hey%2C+I'm+Bhargava+%F0%9F%91%8B;Problem+solver+%7C+Systems+thinker;I+like+breaking+things+to+understand+them)](https://git.io/typing-svg)
+• ⚡ Currently exploring: AI-powered systems & applied ML<br>
+• 🏗️ Building: real-world backend systems & data-driven tools<br>
+• 🎯 I enjoy: clean API design, data-heavy problems, and fixing things that "shouldn't" be broken<br><br>
 
-</div>
-
-B.Tech CSE @ NIAT, Hyderabad · 2024–2028
-
-I gravitate toward the analytical side of engineering — data pipelines, backend systems, pricing models, and AI tooling. I like understanding *why* things work, not just *how* to make them run.
-
-- 🔍 Currently exploring: AI-powered systems & applied ML
-- 🏢 Analytics & Pricing Intelligence @ **FreshBus**
-- 🧩 I enjoy: clean API design, data-heavy problems, and fixing things that "shouldn't" be broken
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A2540?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0E2A1F?style=for-the-badge&logo=mongodb&logoColor=4DB33D)
+![Python](https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-022C22?style=for-the-badge&logo=fastapi&logoColor=10B981)
+![C](https://img.shields.io/badge/C-1B365D?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-1E3A8A?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-2C2C2C?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-0A192F?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-2D1B69?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargav-ram-thunga/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Bh4gav/)
+<a href="https://www.linkedin.com/in/bhargav-ram-thunga/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Bh4gav/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
