@@ -25,7 +25,6 @@ I like understanding <i>why</i> things work, not just how to make them run.<br><
 
 <a href="https://www.linkedin.com/in/bhargav-ram-thunga/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-<a href="https://leetcode.com/u/Bh4gav/">
+</a><a href="https://leetcode.com/u/Bh4gav/">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
