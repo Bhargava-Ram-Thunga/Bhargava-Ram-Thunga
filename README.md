@@ -1,5 +1,5 @@
 <div align="left"><a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1000&color=2F80ED&width=500&lines=Hey%2C+I'm+Bhargav+%F0%9F%91%8B;Problem+solver+%7C+Systems+thinker;I+like+breaking+things+to+understand+them" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1000&color=2F80ED&width=500&lines=Hey%2C+I'm+Bhargava+%F0%9F%91%8B;Problem+solver+%7C+Systems+thinker;I+like+breaking+things+to+understand+them" />
 </a></div>
 <strong>B.Tech CSE @ NIAT, Hyderabad · 2024–2028</strong><br>
 I gravitate toward the analytical side of engineering — data pipelines, backend systems, pricing models, and AI tooling.<br>
@@ -25,7 +25,6 @@ I like understanding <i>why</i> things work, not just how to make them run.<br><
 
 <a href="https://www.linkedin.com/in/bhargav-ram-thunga/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/Bh4gav/">
+</a>&thinsp;<a href="https://leetcode.com/u/Bh4gav/">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
